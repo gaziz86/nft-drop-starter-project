@@ -20,7 +20,6 @@ const opts = {
   preflightCommitment: 'processed',
 };
 
-
 const CandyMachine = ({ walletAddress }) => {
   // Add state property inside your component like this
   const [candyMachine, setCandyMachine] = useState(null);

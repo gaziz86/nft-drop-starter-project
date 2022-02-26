@@ -7,6 +7,7 @@ import CandyMachine from './CandyMachine';
 const TWITTER_HANDLE = '_buildspace';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
+
 const App = () => {
 
   // State
