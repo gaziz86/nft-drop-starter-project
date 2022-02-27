@@ -20,6 +20,7 @@ const opts = {
   preflightCommitment: 'processed',
 };
 
+
 // Machine
 const CandyMachine = ({ walletAddress }) => {
   // Add state property inside your component like this
